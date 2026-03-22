@@ -196,18 +196,6 @@ your-saas/
 
 ---
 
-## What makes this different
-
-| Feature | vibe-coding-prompt-template | Claude-SaaS-Builder |
-|---|---|---|
-| Target use case | Any MVP | SaaS products specifically |
-| Business model step | ❌ | ✅ Pricing, MRR, churn |
-| Auth & billing guidance | ❌ | ✅ Stripe, sessions, webhooks |
-| Security checklist | ❌ | ✅ OWASP + GDPR baseline |
-| Prompt specificity | General | SaaS-opinionated |
-
----
-
 ## Tools this workflow is designed for
 
 | Phase | Recommended |
@@ -248,12 +236,6 @@ For those cases, the prompts give you a solid foundation but you'll need special
 PRs and issues are welcome. If you use this workflow to ship a SaaS, open an issue and share what worked or what needed changing — it improves the prompts for everyone.
 
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
-
----
-
-## License
-
-Released under the [MIT License](LICENSE).
 
 ---
 
